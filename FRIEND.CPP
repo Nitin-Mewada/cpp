@@ -46,4 +46,3 @@ class num1
    greater(N1,N2);
    getch();
   }
-
