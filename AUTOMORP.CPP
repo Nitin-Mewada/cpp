@@ -23,3 +23,4 @@ void main()
  cout<<"the number is antomprphic ";
  getch();
 }
+
