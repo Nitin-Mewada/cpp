@@ -51,8 +51,7 @@ void main()
     b.input();
     getch();
 }
-
-
+
 
 
 
