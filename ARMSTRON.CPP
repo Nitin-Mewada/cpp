@@ -18,4 +18,4 @@ void main()
   else
   cout<<"\n Number is Not Armstrong"<<sum;
   getch();
-}
+}
