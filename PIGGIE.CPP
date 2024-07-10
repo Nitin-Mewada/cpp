@@ -25,4 +25,4 @@ clrscr();
 piggiebank p1();
 piggiebank p2(100);
 p2.display();
-getch();
+getch();
