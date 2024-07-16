@@ -25,4 +25,4 @@ class Electricity
 };
 void main()
 {
-}
+}
