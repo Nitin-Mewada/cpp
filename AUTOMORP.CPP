@@ -22,6 +22,7 @@ void main()
  else
  cout<<"the number is antomprphic ";
  getch();
+
 }
 
 
