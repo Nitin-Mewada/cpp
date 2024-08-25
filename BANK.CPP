@@ -151,3 +151,4 @@ void main(){
   cout<<"\n\n\n\n\n\n\n\n\n                  **Thank You For Choosing This Bank**";
   getch();
 }
+
