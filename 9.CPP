@@ -15,3 +15,4 @@ void main()
   printf("r is a greater  number");
   getch();
 }
+
