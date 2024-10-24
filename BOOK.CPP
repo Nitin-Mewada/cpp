@@ -50,7 +50,7 @@ void main()
     Book b;
     b.input();
     getch();
-}
+}
 
 
 
