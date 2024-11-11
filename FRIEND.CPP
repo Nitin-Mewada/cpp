@@ -47,4 +47,3 @@ class num1
    getch();
   }
 
-
